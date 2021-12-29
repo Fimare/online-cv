@@ -1,7 +1,9 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
+sidebar:
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: false 
 
     # Profile information
     name: Yassine Fimar
